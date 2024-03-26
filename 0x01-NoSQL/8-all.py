@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import pymongo
 """ Listing all docs in a collection via python"""
 
 
